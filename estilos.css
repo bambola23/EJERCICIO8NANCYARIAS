@@ -1,0 +1,36 @@
+.container{
+    width: 600px;
+}
+.texto1{
+    float: left;
+    display: table-cell;
+    width: 450px;
+    height: 100px;
+}
+.imagen1{
+    display: table-cell;
+    width: 150px;
+}
+
+.nombre1{
+    text-align: center;
+}
+.texto2{
+    float: right;
+    display: table-cell;
+    width: 450px;
+    height: 100px;
+}
+.imagen2{
+    display: table-cell;
+    width: 150px;
+}
+
+.nombre2{
+    text-align: center;
+}
+
+.imagen{
+    float: right;
+    width: 100px;
+}
